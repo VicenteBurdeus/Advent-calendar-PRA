@@ -37,7 +37,7 @@ int main(int argc, char* argv[]) {
 
     std::ifstream file(argv[1]);
     if (!file) {
-        std::cerr << "No se pudo abrir el archivo" << std::endl;
+        std::cout << "No se pudo abrir el archivo" << std::endl;
         return 1;
     }
 

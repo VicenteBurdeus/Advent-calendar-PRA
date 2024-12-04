@@ -1,0 +1,4 @@
+Problema 1: resuelto con algoritmo de ordenacion bubleshort // se añade una "memoria" para que si un numero hay que contarlo mas de 1 vez "recuerde" y no los cuente mas de 1 vez
+Problema 2:
+Problema 3:
+Problmea 4: En la primera solucion se usa recursubidad 

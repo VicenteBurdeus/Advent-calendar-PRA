@@ -2,3 +2,4 @@ Problema 1: resuelto con algoritmo de ordenacion bubleshort // se añade una "me
 Problema 2:
 Problema 3:
 Problmea 4: En la primera solucion se usa recursubidad 
+Problema 5:
